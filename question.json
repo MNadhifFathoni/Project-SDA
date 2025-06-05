@@ -1,0 +1,213 @@
+[
+    {
+        "id": 1,
+        "question": "Saya suka bekerja pada mobil.",
+        "category": "R"
+    },
+    {
+        "id": 2,
+        "question": "Saya suka bermain teka-teki.",
+        "category": "I"
+    },
+    {
+        "id": 3,
+        "question": "Saya pandai bekerja mandiri.",
+        "category": "A"
+    },
+    {
+        "id": 4,
+        "question": "Saya suka bekerja dalam tim.",
+        "category": "S"
+    },
+    {
+        "id": 5,
+        "question": "Saya orang yang ambisius, saya menetapkan tujuan untuk diri saya sendiri.",
+        "category": "E"
+    },
+    {
+        "id": 6,
+        "question": "Saya suka mengatur barang-barang (berkas, meja/kantor).",
+        "category":"C"
+    },
+    {
+        "id": 7,
+        "question": "Saya suka membangun sesuatu.",
+        "category": "R"
+    },
+    {
+        "id": 8,
+        "question": "Saya suka membaca tentang seni dan musik.",
+        "category": "A"
+    },
+    {
+        "id": 9,
+        "question": "Saya suka memiliki instruksi yang jelas untuk diikuti.",
+        "category": "C"
+    },
+    {
+        "id": 10,
+        "question": "Saya suka mencoba mempengaruhi atau membujuk orang lain.",
+        "category": "E"
+    },
+    {
+        "id": 11,
+        "question": "Saya suka melakukan eksperimen.",
+        "category": "I"
+    },
+    {
+        "id": 12,
+        "question": "Saya suka mengajar atau melatih orang.",
+        "category": "S"
+    },
+    {
+        "id": 13,
+        "question": "Saya suka mencoba membantu orang memecahkan masalah mereka.",
+        "category": "S"
+    },
+    {
+        "id": 14,
+        "question": "Saya suka merawat hewan.",
+        "category": "R"
+    },
+    {
+        "id": 15,
+        "question": "Saya tidak keberatan bekerja 8 jam perhari di kantor.",
+        "category": "C"
+    },
+    {
+        "id": 16,
+        "question": "Saya suka menjual barang.",
+        "category": "E"
+    },
+    {
+        "id": 17,
+        "question": "Saya menikmati menulis kreatif.",
+        "category": "A"
+    },
+    {
+        "id": 18,
+        "question": "Saya menikmati sains.",
+        "category": "I"
+    },
+    {
+        "id": 19,
+        "question": "Saya cepat dalam mengambil tanggung jawab baru.",
+        "category": "E"
+    },
+    {
+        "id": 20,
+        "question": "Saya tertarik untuk menyembuhkan orang.",
+        "category": "S"
+    },
+    {
+        "id": 21,
+        "question": "Saya senang mencoba mencari tahu bagaimana cara sesuatu bekerja.",
+        "category": "I"
+    },
+    {
+        "id": 22,
+        "question": "Saya suka merakit atau menyusun sesuatu.",
+        "category": "R"
+    },
+    {
+        "id": 23,
+        "question": "Saya orang yang kreatif.",
+        "category": "A"
+    },
+    {
+        "id": 24,
+        "question": "Saya memperhartikan detail.",
+        "category": "C"
+    },
+    {
+        "id": 25,
+        "question": "Saya suka melakukan pengarsipan atau pengetikan.",
+        "category": "C"
+    },
+    {
+        "id": 26,
+        "question": "Saya suka menganalisis sesuatu (masalah/sesuatu).",
+        "category": "I"
+    },
+    {
+        "id": 27,
+        "question": "Saya suka bermain alat musik atau bernyanyi.",
+        "category": "A"
+    },
+    {
+        "id": 28,
+        "question": "Saya senang mempelajari budaya lain.",
+        "category": "S"
+    },
+    {
+        "id": 29,
+        "question": "Saya ingin memulai bisnis saya sendiri.",
+        "category": "E"
+    },
+    {
+        "id": 30,
+        "question": "Saya suka memasak.",
+        "category": "R"
+    },
+    {
+        "id": 31,
+        "question": "Saya suka berakting dalam drama.",
+        "category": "A"
+    }, 
+    {
+        "id": 32,
+        "question": "Saya orang yang praktis.",
+        "category": "R"
+    },
+    {
+        "id": 33,
+        "question": "Saya suka bekerja dengan angka atau grafik.",
+        "category": "I"
+    },
+    {
+        "id": 34,
+        "question": "Saya suka terlibat dalam diskusi tentang isu-isu.",
+        "category": "S"
+    },
+    {
+        "id": 35,
+        "question": "Saya pandai menyimpan catatan pekerjaan saya.",
+        "category": "C"
+    },
+    {
+        "id": 36,
+        "question": "Saya suka memimpin.",
+        "category": "E"
+    },
+    {
+        "id": 37,
+        "question": "Saya suka bekerja di luar ruangan.",
+        "category": "R"
+    },
+    {
+        "id": 38,
+        "question": "Saya ingin bekerja di kantor.",
+        "category": "C"
+    },
+    {
+        "id": 39,
+        "question": "Saya pandai matematika.",
+        "category": "I"
+    },
+    {
+        "id": 40,
+        "question": "Saya suka membantu orang lain.",
+        "category": "S"
+    },
+    {
+        "id": 41,
+        "question": "Saya suka menggambar.",
+        "category": "A"
+    },
+    {
+        "id": 42,
+        "question": "Saya suka berpidato.",
+        "category": "E"
+    }
+]
+

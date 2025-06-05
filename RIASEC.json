@@ -1,0 +1,2738 @@
+{
+  "RIA": {
+    "karier": [
+      "Arsitek",
+      "Teknisi Kreatif",
+      "Desainer Produk Industri"
+    ],
+    "jurusan": [
+      "Teknik Sipil",
+      "Arsitektur",
+      "Teknik Mesin"
+    ]
+  },
+  "RIS": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Mekanik",
+      "Peneliti",
+      "Perawat",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Konstruksi",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Teknik Mesin"
+    ]
+  },
+  "RIE": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Dokter",
+      "Ilmuwan",
+      "Manajer",
+      "Mekanik",
+      "Peneliti",
+      "Pengusaha",
+      "Sales",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Bisnis",
+      "Kedokteran",
+      "Kimia",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pertanian",
+      "Teknik Mesin"
+    ]
+  },
+  "RIC": {
+    "karier": [
+      "Teknisi Lab",
+      "Analis Sistem",
+      "Ahli Teknik Produksi"
+    ],
+    "jurusan": [
+      "Teknik Mesin",
+      "Sistem Informasi",
+      "Teknologi Industri"
+    ]
+  },
+  "RAI": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Desainer",
+      "Dokter",
+      "Ilmuwan",
+      "Mekanik",
+      "Peneliti",
+      "Penulis",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Desain Grafis",
+      "Kedokteran",
+      "Kimia",
+      "Konstruksi",
+      "Pertanian",
+      "Sastra",
+      "Seni Rupa",
+      "Teknik Mesin"
+    ]
+  },
+  "RAS": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Desainer",
+      "Guru",
+      "Konselor",
+      "Mekanik",
+      "Penulis",
+      "Perawat",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Desain Grafis",
+      "Keperawatan",
+      "Konstruksi",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa",
+      "Teknik Mesin"
+    ]
+  },
+  "RAE": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Desainer",
+      "Manajer",
+      "Mekanik",
+      "Pengusaha",
+      "Penulis",
+      "Sales",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Bisnis",
+      "Desain Grafis",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pertanian",
+      "Sastra",
+      "Seni Rupa",
+      "Teknik Mesin"
+    ]
+  },
+  "RAC": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Mekanik",
+      "Penulis",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Desain Grafis",
+      "Konstruksi",
+      "Pertanian",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "RSI": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Mekanik",
+      "Peneliti",
+      "Perawat",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Konstruksi",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Teknik Mesin"
+    ]
+  },
+  "RSA": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Desainer",
+      "Guru",
+      "Konselor",
+      "Mekanik",
+      "Penulis",
+      "Perawat",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Desain Grafis",
+      "Keperawatan",
+      "Konstruksi",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa",
+      "Teknik Mesin"
+    ]
+  },
+  "RSE": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Guru",
+      "Konselor",
+      "Manajer",
+      "Mekanik",
+      "Pengusaha",
+      "Perawat",
+      "Sales",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Bisnis",
+      "Keperawatan",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Teknik Mesin"
+    ]
+  },
+  "RSC": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Guru",
+      "Konselor",
+      "Mekanik",
+      "Perawat",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Keperawatan",
+      "Konstruksi",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "REI": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Dokter",
+      "Ilmuwan",
+      "Manajer",
+      "Mekanik",
+      "Peneliti",
+      "Pengusaha",
+      "Sales",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Bisnis",
+      "Kedokteran",
+      "Kimia",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pertanian",
+      "Teknik Mesin"
+    ]
+  },
+  "REA": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Desainer",
+      "Manajer",
+      "Mekanik",
+      "Pengusaha",
+      "Penulis",
+      "Sales",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Bisnis",
+      "Desain Grafis",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pertanian",
+      "Sastra",
+      "Seni Rupa",
+      "Teknik Mesin"
+    ]
+  },
+  "RES": {
+    "karier": [
+      "Wirausahawan Teknik",
+      "Supervisor Proyek",
+      "Teknisi Lapangan"
+    ],
+    "jurusan": [
+      "Teknik Sipil",
+      "Kewirausahaan",
+      "Teknik Elektro"
+    ]
+  },
+  "REC": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Manajer",
+      "Mekanik",
+      "Pengusaha",
+      "Sales",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Bisnis",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pertanian",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "RCI": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Dokter",
+      "Ilmuwan",
+      "Mekanik",
+      "Peneliti",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Kedokteran",
+      "Kimia",
+      "Konstruksi",
+      "Pertanian",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "RCA": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Mekanik",
+      "Penulis",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Desain Grafis",
+      "Konstruksi",
+      "Pertanian",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "RCS": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Guru",
+      "Konselor",
+      "Mekanik",
+      "Perawat",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Keperawatan",
+      "Konstruksi",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "RCE": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Manajer",
+      "Mekanik",
+      "Pengusaha",
+      "Sales",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Bisnis",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pertanian",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "IRA": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Desainer",
+      "Dokter",
+      "Ilmuwan",
+      "Mekanik",
+      "Peneliti",
+      "Penulis",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Desain Grafis",
+      "Kedokteran",
+      "Kimia",
+      "Konstruksi",
+      "Pertanian",
+      "Sastra",
+      "Seni Rupa",
+      "Teknik Mesin"
+    ]
+  },
+  "IRS": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Mekanik",
+      "Peneliti",
+      "Perawat",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Konstruksi",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Teknik Mesin"
+    ]
+  },
+  "IRE": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Dokter",
+      "Ilmuwan",
+      "Manajer",
+      "Mekanik",
+      "Peneliti",
+      "Pengusaha",
+      "Sales",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Bisnis",
+      "Kedokteran",
+      "Kimia",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pertanian",
+      "Teknik Mesin"
+    ]
+  },
+  "IRC": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Dokter",
+      "Ilmuwan",
+      "Mekanik",
+      "Peneliti",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Kedokteran",
+      "Kimia",
+      "Konstruksi",
+      "Pertanian",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "IAR": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Desainer",
+      "Dokter",
+      "Ilmuwan",
+      "Mekanik",
+      "Peneliti",
+      "Penulis",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Desain Grafis",
+      "Kedokteran",
+      "Kimia",
+      "Konstruksi",
+      "Pertanian",
+      "Sastra",
+      "Seni Rupa",
+      "Teknik Mesin"
+    ]
+  },
+  "IAS": {
+    "karier": [
+      "Desainer",
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Peneliti",
+      "Penulis",
+      "Perawat",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Desain Grafis",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Pendidikan",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa"
+    ]
+  },
+  "IAE": {
+    "karier": [
+      "Desainer",
+      "Dokter",
+      "Ilmuwan",
+      "Manajer",
+      "Peneliti",
+      "Pengusaha",
+      "Penulis",
+      "Sales",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Bisnis",
+      "Desain Grafis",
+      "Kedokteran",
+      "Kimia",
+      "Manajemen",
+      "Pemasaran",
+      "Sastra",
+      "Seni Rupa"
+    ]
+  },
+  "IAC": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Dokter",
+      "Ilmuwan",
+      "Peneliti",
+      "Penulis",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Desain Grafis",
+      "Kedokteran",
+      "Kimia",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi"
+    ]
+  },
+  "ISR": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Mekanik",
+      "Peneliti",
+      "Perawat",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Konstruksi",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Teknik Mesin"
+    ]
+  },
+  "ISA": {
+    "karier": [
+      "Desainer",
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Peneliti",
+      "Penulis",
+      "Perawat",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Desain Grafis",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Pendidikan",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa"
+    ]
+  },
+  "ISE": {
+    "karier": [
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Manajer",
+      "Peneliti",
+      "Pengusaha",
+      "Perawat",
+      "Sales"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Bisnis",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Psikologi"
+    ]
+  },
+  "ISC": {
+    "karier": [
+      "Psikolog",
+      "Konselor",
+      "Analis Data Medis"
+    ],
+    "jurusan": [
+      "Psikologi",
+      "Ilmu Kesehatan",
+      "Administrasi Rumah Sakit"
+    ]
+  },
+  "IER": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Dokter",
+      "Ilmuwan",
+      "Manajer",
+      "Mekanik",
+      "Peneliti",
+      "Pengusaha",
+      "Sales",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Bisnis",
+      "Kedokteran",
+      "Kimia",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pertanian",
+      "Teknik Mesin"
+    ]
+  },
+  "IEA": {
+    "karier": [
+      "Desainer",
+      "Dokter",
+      "Ilmuwan",
+      "Manajer",
+      "Peneliti",
+      "Pengusaha",
+      "Penulis",
+      "Sales",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Bisnis",
+      "Desain Grafis",
+      "Kedokteran",
+      "Kimia",
+      "Manajemen",
+      "Pemasaran",
+      "Sastra",
+      "Seni Rupa"
+    ]
+  },
+  "IES": {
+    "karier": [
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Manajer",
+      "Peneliti",
+      "Pengusaha",
+      "Perawat",
+      "Sales"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Bisnis",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Psikologi"
+    ]
+  },
+  "IEC": {
+    "karier": [
+      "Analis Keuangan",
+      "Konsultan Strategi",
+      "Pengembang Produk"
+    ],
+    "jurusan": [
+      "Ekonomi",
+      "Statistik",
+      "Bisnis Internasional"
+    ]
+  },
+  "ICR": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Dokter",
+      "Ilmuwan",
+      "Mekanik",
+      "Peneliti",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Kedokteran",
+      "Kimia",
+      "Konstruksi",
+      "Pertanian",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "ICA": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Dokter",
+      "Ilmuwan",
+      "Peneliti",
+      "Penulis",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Desain Grafis",
+      "Kedokteran",
+      "Kimia",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi"
+    ]
+  },
+  "ICS": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Peneliti",
+      "Perawat"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Pendidikan",
+      "Psikologi",
+      "Sistem Informasi"
+    ]
+  },
+  "ICE": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Dokter",
+      "Ilmuwan",
+      "Manajer",
+      "Peneliti",
+      "Pengusaha",
+      "Sales"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Bisnis",
+      "Kedokteran",
+      "Kimia",
+      "Manajemen",
+      "Pemasaran",
+      "Sistem Informasi"
+    ]
+  },
+  "ARI": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Desainer",
+      "Dokter",
+      "Ilmuwan",
+      "Mekanik",
+      "Peneliti",
+      "Penulis",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Desain Grafis",
+      "Kedokteran",
+      "Kimia",
+      "Konstruksi",
+      "Pertanian",
+      "Sastra",
+      "Seni Rupa",
+      "Teknik Mesin"
+    ]
+  },
+  "ARS": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Desainer",
+      "Guru",
+      "Konselor",
+      "Mekanik",
+      "Penulis",
+      "Perawat",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Desain Grafis",
+      "Keperawatan",
+      "Konstruksi",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa",
+      "Teknik Mesin"
+    ]
+  },
+  "ARE": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Desainer",
+      "Manajer",
+      "Mekanik",
+      "Pengusaha",
+      "Penulis",
+      "Sales",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Bisnis",
+      "Desain Grafis",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pertanian",
+      "Sastra",
+      "Seni Rupa",
+      "Teknik Mesin"
+    ]
+  },
+  "ARC": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Mekanik",
+      "Penulis",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Desain Grafis",
+      "Konstruksi",
+      "Pertanian",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "AIR": {
+    "karier": [
+      "Desainer Interior",
+      "Peneliti Produk",
+      "Inovator Teknologi"
+    ],
+    "jurusan": [
+      "Desain Produk",
+      "Teknik Industri",
+      "Fisika Terapan"
+    ]
+  },
+  "AIS": {
+    "karier": [
+      "Desainer",
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Peneliti",
+      "Penulis",
+      "Perawat",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Desain Grafis",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Pendidikan",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa"
+    ]
+  },
+  "AIE": {
+    "karier": [
+      "Creative Strategist",
+      "UX Designer",
+      "Editor Media"
+    ],
+    "jurusan": [
+      "Desain Komunikasi Visual",
+      "Media Digital",
+      "Marketing Kreatif"
+    ]
+  },
+  "AIC": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Dokter",
+      "Ilmuwan",
+      "Peneliti",
+      "Penulis",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Desain Grafis",
+      "Kedokteran",
+      "Kimia",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi"
+    ]
+  },
+  "ASR": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Desainer",
+      "Guru",
+      "Konselor",
+      "Mekanik",
+      "Penulis",
+      "Perawat",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Desain Grafis",
+      "Keperawatan",
+      "Konstruksi",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa",
+      "Teknik Mesin"
+    ]
+  },
+  "ASI": {
+    "karier": [
+      "Desainer",
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Peneliti",
+      "Penulis",
+      "Perawat",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Desain Grafis",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Pendidikan",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa"
+    ]
+  },
+  "ASE": {
+    "karier": [
+      "Desainer Komunikasi Visual",
+      "Event Organizer",
+      "Public Relations"
+    ],
+    "jurusan": [
+      "Ilmu Komunikasi",
+      "Desain Grafis",
+      "Manajemen Pemasaran"
+    ]
+  },
+  "ASC": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Guru",
+      "Konselor",
+      "Penulis",
+      "Perawat",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Desain Grafis",
+      "Keperawatan",
+      "Pendidikan",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi"
+    ]
+  },
+  "AER": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Desainer",
+      "Manajer",
+      "Mekanik",
+      "Pengusaha",
+      "Penulis",
+      "Sales",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Bisnis",
+      "Desain Grafis",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pertanian",
+      "Sastra",
+      "Seni Rupa",
+      "Teknik Mesin"
+    ]
+  },
+  "AEI": {
+    "karier": [
+      "Desainer",
+      "Dokter",
+      "Ilmuwan",
+      "Manajer",
+      "Peneliti",
+      "Pengusaha",
+      "Penulis",
+      "Sales",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Bisnis",
+      "Desain Grafis",
+      "Kedokteran",
+      "Kimia",
+      "Manajemen",
+      "Pemasaran",
+      "Sastra",
+      "Seni Rupa"
+    ]
+  },
+  "AES": {
+    "karier": [
+      "Desainer",
+      "Guru",
+      "Konselor",
+      "Manajer",
+      "Pengusaha",
+      "Penulis",
+      "Perawat",
+      "Sales",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Bisnis",
+      "Desain Grafis",
+      "Keperawatan",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa"
+    ]
+  },
+  "AEC": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Manajer",
+      "Pengusaha",
+      "Penulis",
+      "Sales",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Bisnis",
+      "Desain Grafis",
+      "Manajemen",
+      "Pemasaran",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi"
+    ]
+  },
+  "ACR": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Mekanik",
+      "Penulis",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Desain Grafis",
+      "Konstruksi",
+      "Pertanian",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "ACI": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Dokter",
+      "Ilmuwan",
+      "Peneliti",
+      "Penulis",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Desain Grafis",
+      "Kedokteran",
+      "Kimia",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi"
+    ]
+  },
+  "ACS": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Guru",
+      "Konselor",
+      "Penulis",
+      "Perawat",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Desain Grafis",
+      "Keperawatan",
+      "Pendidikan",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi"
+    ]
+  },
+  "ACE": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Manajer",
+      "Pengusaha",
+      "Penulis",
+      "Sales",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Bisnis",
+      "Desain Grafis",
+      "Manajemen",
+      "Pemasaran",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi"
+    ]
+  },
+  "SRI": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Mekanik",
+      "Peneliti",
+      "Perawat",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Konstruksi",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Teknik Mesin"
+    ]
+  },
+  "SRA": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Desainer",
+      "Guru",
+      "Konselor",
+      "Mekanik",
+      "Penulis",
+      "Perawat",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Desain Grafis",
+      "Keperawatan",
+      "Konstruksi",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa",
+      "Teknik Mesin"
+    ]
+  },
+  "SRE": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Guru",
+      "Konselor",
+      "Manajer",
+      "Mekanik",
+      "Pengusaha",
+      "Perawat",
+      "Sales",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Bisnis",
+      "Keperawatan",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Teknik Mesin"
+    ]
+  },
+  "SRC": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Guru",
+      "Konselor",
+      "Mekanik",
+      "Perawat",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Keperawatan",
+      "Konstruksi",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "SIR": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Mekanik",
+      "Peneliti",
+      "Perawat",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Konstruksi",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Teknik Mesin"
+    ]
+  },
+  "SIA": {
+    "karier": [
+      "Guru",
+      "Terapis Seni",
+      "Konselor Sekolah"
+    ],
+    "jurusan": [
+      "Pendidikan",
+      "Terapi Psikologi",
+      "Seni Pendidikan"
+    ]
+  },
+  "SIE": {
+    "karier": [
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Manajer",
+      "Peneliti",
+      "Pengusaha",
+      "Perawat",
+      "Sales"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Bisnis",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Psikologi"
+    ]
+  },
+  "SIC": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Peneliti",
+      "Perawat"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Pendidikan",
+      "Psikologi",
+      "Sistem Informasi"
+    ]
+  },
+  "SAR": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Desainer",
+      "Guru",
+      "Konselor",
+      "Mekanik",
+      "Penulis",
+      "Perawat",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Desain Grafis",
+      "Keperawatan",
+      "Konstruksi",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa",
+      "Teknik Mesin"
+    ]
+  },
+  "SAI": {
+    "karier": [
+      "Guru Seni",
+      "Kurator Museum",
+      "Pelatih Kreatif"
+    ],
+    "jurusan": [
+      "Pendidikan Seni",
+      "Ilmu Budaya",
+      "Psikologi Pendidikan"
+    ]
+  },
+  "SAE": {
+    "karier": [
+      "Desainer",
+      "Guru",
+      "Konselor",
+      "Manajer",
+      "Pengusaha",
+      "Penulis",
+      "Perawat",
+      "Sales",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Bisnis",
+      "Desain Grafis",
+      "Keperawatan",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa"
+    ]
+  },
+  "SAC": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Guru",
+      "Konselor",
+      "Penulis",
+      "Perawat",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Desain Grafis",
+      "Keperawatan",
+      "Pendidikan",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi"
+    ]
+  },
+  "SER": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Guru",
+      "Konselor",
+      "Manajer",
+      "Mekanik",
+      "Pengusaha",
+      "Perawat",
+      "Sales",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Bisnis",
+      "Keperawatan",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Teknik Mesin"
+    ]
+  },
+  "SEI": {
+    "karier": [
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Manajer",
+      "Peneliti",
+      "Pengusaha",
+      "Perawat",
+      "Sales"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Bisnis",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Psikologi"
+    ]
+  },
+  "SEA": {
+    "karier": [
+      "Desainer",
+      "Guru",
+      "Konselor",
+      "Manajer",
+      "Pengusaha",
+      "Penulis",
+      "Perawat",
+      "Sales",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Bisnis",
+      "Desain Grafis",
+      "Keperawatan",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa"
+    ]
+  },
+  "SEC": {
+    "karier": [
+      "HRD",
+      "Public Relations",
+      "Administrator Organisasi"
+    ],
+    "jurusan": [
+      "Manajemen SDM",
+      "Administrasi Bisnis",
+      "Komunikasi"
+    ]
+  },
+  "SCR": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Guru",
+      "Konselor",
+      "Mekanik",
+      "Perawat",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Keperawatan",
+      "Konstruksi",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "SCI": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Peneliti",
+      "Perawat"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Pendidikan",
+      "Psikologi",
+      "Sistem Informasi"
+    ]
+  },
+  "SCA": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Guru",
+      "Konselor",
+      "Penulis",
+      "Perawat",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Desain Grafis",
+      "Keperawatan",
+      "Pendidikan",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi"
+    ]
+  },
+  "SCE": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Guru",
+      "Konselor",
+      "Manajer",
+      "Pengusaha",
+      "Perawat",
+      "Sales"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Bisnis",
+      "Keperawatan",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Psikologi",
+      "Sistem Informasi"
+    ]
+  },
+  "ERI": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Dokter",
+      "Ilmuwan",
+      "Manajer",
+      "Mekanik",
+      "Peneliti",
+      "Pengusaha",
+      "Sales",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Bisnis",
+      "Kedokteran",
+      "Kimia",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pertanian",
+      "Teknik Mesin"
+    ]
+  },
+  "ERA": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Desainer",
+      "Manajer",
+      "Mekanik",
+      "Pengusaha",
+      "Penulis",
+      "Sales",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Bisnis",
+      "Desain Grafis",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pertanian",
+      "Sastra",
+      "Seni Rupa",
+      "Teknik Mesin"
+    ]
+  },
+  "ERS": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Guru",
+      "Konselor",
+      "Manajer",
+      "Mekanik",
+      "Pengusaha",
+      "Perawat",
+      "Sales",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Bisnis",
+      "Keperawatan",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Teknik Mesin"
+    ]
+  },
+  "ERC": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Manajer",
+      "Mekanik",
+      "Pengusaha",
+      "Sales",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Bisnis",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pertanian",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "EIR": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Dokter",
+      "Ilmuwan",
+      "Manajer",
+      "Mekanik",
+      "Peneliti",
+      "Pengusaha",
+      "Sales",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Bisnis",
+      "Kedokteran",
+      "Kimia",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pertanian",
+      "Teknik Mesin"
+    ]
+  },
+  "EIA": {
+    "karier": [
+      "Desainer",
+      "Dokter",
+      "Ilmuwan",
+      "Manajer",
+      "Peneliti",
+      "Pengusaha",
+      "Penulis",
+      "Sales",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Bisnis",
+      "Desain Grafis",
+      "Kedokteran",
+      "Kimia",
+      "Manajemen",
+      "Pemasaran",
+      "Sastra",
+      "Seni Rupa"
+    ]
+  },
+  "EIS": {
+    "karier": [
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Manajer",
+      "Peneliti",
+      "Pengusaha",
+      "Perawat",
+      "Sales"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Bisnis",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Psikologi"
+    ]
+  },
+  "EIC": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Dokter",
+      "Ilmuwan",
+      "Manajer",
+      "Peneliti",
+      "Pengusaha",
+      "Sales"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Bisnis",
+      "Kedokteran",
+      "Kimia",
+      "Manajemen",
+      "Pemasaran",
+      "Sistem Informasi"
+    ]
+  },
+  "EAR": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Desainer",
+      "Manajer",
+      "Mekanik",
+      "Pengusaha",
+      "Penulis",
+      "Sales",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Bisnis",
+      "Desain Grafis",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pertanian",
+      "Sastra",
+      "Seni Rupa",
+      "Teknik Mesin"
+    ]
+  },
+  "EAI": {
+    "karier": [
+      "Desainer",
+      "Dokter",
+      "Ilmuwan",
+      "Manajer",
+      "Peneliti",
+      "Pengusaha",
+      "Penulis",
+      "Sales",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Bisnis",
+      "Desain Grafis",
+      "Kedokteran",
+      "Kimia",
+      "Manajemen",
+      "Pemasaran",
+      "Sastra",
+      "Seni Rupa"
+    ]
+  },
+  "EAS": {
+    "karier": [
+      "Desainer",
+      "Guru",
+      "Konselor",
+      "Manajer",
+      "Pengusaha",
+      "Penulis",
+      "Perawat",
+      "Sales",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Bisnis",
+      "Desain Grafis",
+      "Keperawatan",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa"
+    ]
+  },
+  "EAC": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Manajer",
+      "Pengusaha",
+      "Penulis",
+      "Sales",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Bisnis",
+      "Desain Grafis",
+      "Manajemen",
+      "Pemasaran",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi"
+    ]
+  },
+  "ESR": {
+    "karier": [
+      "Ahli Konstruksi",
+      "Guru",
+      "Konselor",
+      "Manajer",
+      "Mekanik",
+      "Pengusaha",
+      "Perawat",
+      "Sales",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Bisnis",
+      "Keperawatan",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Teknik Mesin"
+    ]
+  },
+  "ESI": {
+    "karier": [
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Manajer",
+      "Peneliti",
+      "Pengusaha",
+      "Perawat",
+      "Sales"
+    ],
+    "jurusan": [
+      "Biologi",
+      "Bisnis",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Psikologi"
+    ]
+  },
+  "ESA": {
+    "karier": [
+      "Desainer",
+      "Guru",
+      "Konselor",
+      "Manajer",
+      "Pengusaha",
+      "Penulis",
+      "Perawat",
+      "Sales",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Bisnis",
+      "Desain Grafis",
+      "Keperawatan",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa"
+    ]
+  },
+  "ESC": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Guru",
+      "Konselor",
+      "Manajer",
+      "Pengusaha",
+      "Perawat",
+      "Sales"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Bisnis",
+      "Keperawatan",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Psikologi",
+      "Sistem Informasi"
+    ]
+  },
+  "ECR": {
+    "karier": [
+      "Manajer Proyek",
+      "Pengusaha",
+      "Supervisor Operasional"
+    ],
+    "jurusan": [
+      "Manajemen",
+      "Teknik Industri",
+      "Kewirausahaan"
+    ]
+  },
+  "ECI": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Dokter",
+      "Ilmuwan",
+      "Manajer",
+      "Peneliti",
+      "Pengusaha",
+      "Sales"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Bisnis",
+      "Kedokteran",
+      "Kimia",
+      "Manajemen",
+      "Pemasaran",
+      "Sistem Informasi"
+    ]
+  },
+  "ECA": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Manajer",
+      "Pengusaha",
+      "Penulis",
+      "Sales",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Bisnis",
+      "Desain Grafis",
+      "Manajemen",
+      "Pemasaran",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi"
+    ]
+  },
+  "ECS": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Guru",
+      "Konselor",
+      "Manajer",
+      "Pengusaha",
+      "Perawat",
+      "Sales"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Bisnis",
+      "Keperawatan",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Psikologi",
+      "Sistem Informasi"
+    ]
+  },
+  "CRI": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Dokter",
+      "Ilmuwan",
+      "Mekanik",
+      "Peneliti",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Kedokteran",
+      "Kimia",
+      "Konstruksi",
+      "Pertanian",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "CRA": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Mekanik",
+      "Penulis",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Desain Grafis",
+      "Konstruksi",
+      "Pertanian",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "CRS": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Guru",
+      "Konselor",
+      "Mekanik",
+      "Perawat",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Keperawatan",
+      "Konstruksi",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "CRE": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Manajer",
+      "Mekanik",
+      "Pengusaha",
+      "Sales",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Bisnis",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pertanian",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "CIR": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Dokter",
+      "Ilmuwan",
+      "Mekanik",
+      "Peneliti",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Kedokteran",
+      "Kimia",
+      "Konstruksi",
+      "Pertanian",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "CIA": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Dokter",
+      "Ilmuwan",
+      "Peneliti",
+      "Penulis",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Desain Grafis",
+      "Kedokteran",
+      "Kimia",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi"
+    ]
+  },
+  "CIS": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Peneliti",
+      "Perawat"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Pendidikan",
+      "Psikologi",
+      "Sistem Informasi"
+    ]
+  },
+  "CIE": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Dokter",
+      "Ilmuwan",
+      "Manajer",
+      "Peneliti",
+      "Pengusaha",
+      "Sales"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Bisnis",
+      "Kedokteran",
+      "Kimia",
+      "Manajemen",
+      "Pemasaran",
+      "Sistem Informasi"
+    ]
+  },
+  "CAR": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Mekanik",
+      "Penulis",
+      "Seniman",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Desain Grafis",
+      "Konstruksi",
+      "Pertanian",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "CAI": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Dokter",
+      "Ilmuwan",
+      "Peneliti",
+      "Penulis",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Desain Grafis",
+      "Kedokteran",
+      "Kimia",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi"
+    ]
+  },
+  "CAS": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Guru",
+      "Konselor",
+      "Penulis",
+      "Perawat",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Desain Grafis",
+      "Keperawatan",
+      "Pendidikan",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi"
+    ]
+  },
+  "CAE": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Manajer",
+      "Pengusaha",
+      "Penulis",
+      "Sales",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Bisnis",
+      "Desain Grafis",
+      "Manajemen",
+      "Pemasaran",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi"
+    ]
+  },
+  "CSR": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Guru",
+      "Konselor",
+      "Mekanik",
+      "Perawat",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Keperawatan",
+      "Konstruksi",
+      "Pendidikan",
+      "Pertanian",
+      "Psikologi",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "CSI": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Dokter",
+      "Guru",
+      "Ilmuwan",
+      "Konselor",
+      "Peneliti",
+      "Perawat"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Kedokteran",
+      "Keperawatan",
+      "Kimia",
+      "Pendidikan",
+      "Psikologi",
+      "Sistem Informasi"
+    ]
+  },
+  "CSA": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Guru",
+      "Konselor",
+      "Penulis",
+      "Perawat",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Desain Grafis",
+      "Keperawatan",
+      "Pendidikan",
+      "Psikologi",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi"
+    ]
+  },
+  "CSE": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Guru",
+      "Konselor",
+      "Manajer",
+      "Pengusaha",
+      "Perawat",
+      "Sales"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Bisnis",
+      "Keperawatan",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Psikologi",
+      "Sistem Informasi"
+    ]
+  },
+  "CER": {
+    "karier": [
+      "Administrasi",
+      "Ahli Konstruksi",
+      "Akuntan",
+      "Analis Data",
+      "Manajer",
+      "Mekanik",
+      "Pengusaha",
+      "Sales",
+      "Teknisi"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Bisnis",
+      "Konstruksi",
+      "Manajemen",
+      "Pemasaran",
+      "Pertanian",
+      "Sistem Informasi",
+      "Teknik Mesin"
+    ]
+  },
+  "CEI": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Dokter",
+      "Ilmuwan",
+      "Manajer",
+      "Peneliti",
+      "Pengusaha",
+      "Sales"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Biologi",
+      "Bisnis",
+      "Kedokteran",
+      "Kimia",
+      "Manajemen",
+      "Pemasaran",
+      "Sistem Informasi"
+    ]
+  },
+  "CEA": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Desainer",
+      "Manajer",
+      "Pengusaha",
+      "Penulis",
+      "Sales",
+      "Seniman"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Bisnis",
+      "Desain Grafis",
+      "Manajemen",
+      "Pemasaran",
+      "Sastra",
+      "Seni Rupa",
+      "Sistem Informasi"
+    ]
+  },
+  "CES": {
+    "karier": [
+      "Administrasi",
+      "Akuntan",
+      "Analis Data",
+      "Guru",
+      "Konselor",
+      "Manajer",
+      "Pengusaha",
+      "Perawat",
+      "Sales"
+    ],
+    "jurusan": [
+      "Administrasi Perkantoran",
+      "Akuntansi",
+      "Bisnis",
+      "Keperawatan",
+      "Manajemen",
+      "Pemasaran",
+      "Pendidikan",
+      "Psikologi",
+      "Sistem Informasi"
+    ]
+  }
+}
